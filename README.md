@@ -1,2 +1,5 @@
 # eda for gdp dataset
- We use EDA for the GDP by Country dataset imported from Kaggle.
+
+## Data Collection:
+ We use EDA for the GDP by Country dataset and the World Population dataset imported from Kaggle.
+
