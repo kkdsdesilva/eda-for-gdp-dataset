@@ -13,6 +13,6 @@ There are no missing values in both datasets.
 ### 1. Identifying countries with fastest growing GDPs
 
 This can be done by looking at the growth rates of each countries. The growth rate of a country is calculated by the following formula: 
-$ growth rate = \frac{GDP_{t_2} - GDP_{t_1}}{GDP_{t_1}} $.
+$$ growth rate = \frac{GDP_{t_2} - GDP_{t_1}}{GDP_{t_1}} $$.
 
 
